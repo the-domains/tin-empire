@@ -1,7 +1,7 @@
 name: Tin Empire
 favicon: null
-layout_spectrum: 0.6697276686318219
-typography_spectrum: 0.09666678472422063
+layout_spectrum: 0.94005
+typography_spectrum: 0.29439
 title: 'Industrial Americana Duo - Denver, Colorado USA'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5358475281391293
-  lightness: 0.4841770634520799
-  saturation: 0.5090702355373651
-  rhythmicContrast: 0.25636533671058714
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
