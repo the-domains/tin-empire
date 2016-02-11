@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tin Empire]]></title>
         <description><![CDATA[Tin Empire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tin-empire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 00:03:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 00:03:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tin-empire/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d63f667-cd70-463d-a480-9b070c13d625.png">]]></description>
+            <link>https://thegrid.ai/tin-empire/3553c278-31f4-4816-88f0-9118ef8c222d/index.html</link>
+            <guid isPermaLink="false">3553c278-31f4-4816-88f0-9118ef8c222d</guid>
+            <pubDate>Thu, 11 Feb 2016 00:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81f26619-ad12-40c2-bb77-6daece74913d.png">]]></description>
-            <link>undefined0bc7dbd3-940c-423b-8492-dd93db397b58/index.html</link>
+            <link>https://thegrid.ai/tin-empire/0bc7dbd3-940c-423b-8492-dd93db397b58/index.html</link>
             <guid isPermaLink="false">0bc7dbd3-940c-423b-8492-dd93db397b58</guid>
             <pubDate>Thu, 11 Feb 2016 00:03:08 GMT</pubDate>
         </item>
