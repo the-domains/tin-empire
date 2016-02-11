@@ -1,0 +1,28 @@
+name: Tin Empire
+favicon: null
+layout_spectrum: 0.6697276686318219
+typography_spectrum: 0.09666678472422063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5358475281391293
+  lightness: 0.4841770634520799
+  saturation: 0.5090702355373651
+  rhythmicContrast: 0.25636533671058714
+purpose: []
